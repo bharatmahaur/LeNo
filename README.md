@@ -31,9 +31,9 @@ To train using Multi-processing Distributed DataParallel; follow the instruction
 ### Results
 The gradient norm ratios for ResNet, pre-act ResNet, and LeNo-ResNet over 200-layers depth network:
 
-<img src="https://github.com/bharatmahaur/test/blob/main/imgs/1.png" width="auto" height="225">
-<img src="https://github.com/bharatmahaur/test/blob/main/imgs/2.png" width="auto" height="225">
-<img src="https://github.com/bharatmahaur/test/blob/main/imgs/3.png" width="auto" height="225">
+<img src="https://github.com/bharatmahaur/LeNo/blob/main/imgs/1.png" width="auto" height="225">
+<img src="https://github.com/bharatmahaur/LeNo/blob/main/imgs/2.png" width="auto" height="225">
+<img src="https://github.com/bharatmahaur/LeNo/blob/main/imgs/3.png" width="auto" height="225">
 
 ### Citation
 If you use this code, please cite our paper:
