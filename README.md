@@ -42,7 +42,6 @@ If you use this code, please cite our paper:
  title={Improved Residual Network Based on Norm-Preservation for Visual Recognition}, 
  author={Mahaur, Bharat and others},
  journal={Neural Networks},
- pages={1--19},
  year={2022},
  publisher={Elsevier}
 }
